@@ -56,7 +56,6 @@ import io.mosip.registration.clientmanager.exception.BiometricsServiceException;
 import io.mosip.registration.clientmanager.exception.ClientCheckedException;
 import io.mosip.registration.clientmanager.repository.GlobalParamRepository;
 import io.mosip.registration.clientmanager.service.Biometrics095Service;
-import io.mosip.registration.clientmanager.service.RegistrationServiceImpl;
 import io.mosip.registration.clientmanager.service.UserOnboardService;
 import io.mosip.registration.clientmanager.spi.AuditManagerService;
 import io.mosip.registration.clientmanager.spi.RegistrationService;
